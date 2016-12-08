@@ -37,7 +37,6 @@
 		70ECE2A01DF979E800800A3D /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		70ECE2A81DF97ADC00800A3D /* helloWorld.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = helloWorld.cpp; path = algos/helloWorld.cpp; sourceTree = "<group>"; };
 		70ECE2AD1DF97B2600800A3D /* helloWorld */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = helloWorld; sourceTree = BUILT_PRODUCTS_DIR; };
-		70ECE2AF1DF97B2600800A3D /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,7 +62,6 @@
 			children = (
 				70ECE2A71DF97ABA00800A3D /* helloWorld */,
 				70ECE29F1DF979E800800A3D /* algos */,
-				70ECE2AE1DF97B2600800A3D /* helloWorld */,
 				70ECE29E1DF979E800800A3D /* Products */,
 			);
 			sourceTree = "<group>";
@@ -91,14 +89,6 @@
 				70ECE2A81DF97ADC00800A3D /* helloWorld.cpp */,
 			);
 			name = helloWorld;
-			sourceTree = "<group>";
-		};
-		70ECE2AE1DF97B2600800A3D /* helloWorld */ = {
-			isa = PBXGroup;
-			children = (
-				70ECE2AF1DF97B2600800A3D /* main.cpp */,
-			);
-			path = helloWorld;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
